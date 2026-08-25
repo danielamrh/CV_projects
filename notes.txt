@@ -1,0 +1,2 @@
+# Activate conda CV environment 
+conda activate cv_env
